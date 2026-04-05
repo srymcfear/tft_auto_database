@@ -1,0 +1,823 @@
+{
+  "version": "1.0",
+  "champions": {
+    "Aatrox": {
+      "filename": "Aatrox.png",
+      "display_name": "Aatrox",
+      "classes": ["Đồ Tể"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Ahri": {
+      "filename": "Ahri.png",
+      "display_name": "Ahri",
+      "classes": ["Pháp Sư"],
+      "origins": ["Ionia"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Ambessa": {
+      "filename": "Ambessa.png",
+      "display_name": "Ambessa",
+      "classes": ["Chinh Phạt"],
+      "origins": ["Noxus"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Anivia": {
+      "filename": "Anivia.png",
+      "display_name": "Anivia",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Freljord"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Annie": {
+      "filename": "Annie.png",
+      "display_name": "Annie",
+      "classes": ["Pháp Sư"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Aphelios": {
+      "filename": "Aphelios.png",
+      "display_name": "Aphelios",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Ashe": {
+      "filename": "Ashe.png",
+      "display_name": "Ashe",
+      "classes": ["Cực Tốc"],
+      "origins": ["Freljord"],
+      "cost": 2,
+      "has_data": true
+    },
+    "AurelionSol": {
+      "filename": "AurelionSol.png",
+      "display_name": "Aurelion Sol",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 7,
+      "has_data": true
+    },
+    "Azir": {
+      "filename": "Azir.png",
+      "display_name": "Azir",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Shurima"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Bard": {
+      "filename": "Bard.png",
+      "display_name": "Bard",
+      "classes": [],
+      "origins": [],
+      "cost": 2,
+      "has_data": false
+    },
+    "Baron": {
+      "filename": "Baron.png",
+      "display_name": "Baron",
+      "classes": [],
+      "origins": ["Hư Không"],
+      "cost": 7,
+      "has_data": true
+    },
+    "BelVeth": {
+      "filename": "Belveth.png",
+      "display_name": "Bel'Veth",
+      "classes": ["Đồ Tể"],
+      "origins": ["Hư Không"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Blitzcrank": {
+      "filename": "Blitzcrank.png",
+      "display_name": "Blitzcrank",
+      "classes": ["Dũng Sĩ"],
+      "origins": ["Zaun"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Braum": {
+      "filename": "Braum.png",
+      "display_name": "Braum",
+      "classes": ["Cảnh Vệ"],
+      "origins": ["Freljord"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Briar": {
+      "filename": "Briar.png",
+      "display_name": "Briar",
+      "classes": ["Đồ Tể", "Dũng Sĩ"],
+      "origins": ["Noxus"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Brock": {
+      "filename": "Brock.png",
+      "display_name": "Brock",
+      "classes": [],
+      "origins": ["Ixtal"],
+      "cost": 7,
+      "has_data": true
+    },
+    "Caitlyn": {
+      "filename": "Caitlyn.png",
+      "display_name": "Caitlyn",
+      "classes": ["Viễn Kích"],
+      "origins": ["Piltover"],
+      "cost": 1,
+      "has_data": true
+    },
+    "ChoGath": {
+      "filename": "Chogath.png",
+      "display_name": "Cho'Gath",
+      "classes": ["Dũng Sĩ"],
+      "origins": ["Hư Không"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Darius": {
+      "filename": "Darius.png",
+      "display_name": "Darius",
+      "classes": ["Vệ Quân"],
+      "origins": ["Noxus"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Diana": {
+      "filename": "Diana.png",
+      "display_name": "Diana",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Draven": {
+      "filename": "Draven.png",
+      "display_name": "Draven",
+      "classes": ["Cực Tốc"],
+      "origins": ["Noxus"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Ekko": {
+      "filename": "Ekko.png",
+      "display_name": "Ekko",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Zaun"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Fiddlesticks": {
+      "filename": "Fiddlesticks.png",
+      "display_name": "Fiddlesticks",
+      "classes": ["Chinh Phạt"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Fizz": {
+      "filename": "Fizz.png",
+      "display_name": "Fizz",
+      "classes": [],
+      "origins": ["Bilgewater", "Yordle"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Galio": {
+      "filename": "Galio.png",
+      "display_name": "Galio",
+      "classes": [],
+      "origins": ["Demacia"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Gangplank": {
+      "filename": "Gangplank.png",
+      "display_name": "Gangplank",
+      "classes": ["Đồ Tể", "Chinh Phạt"],
+      "origins": ["Bilgewater"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Garen": {
+      "filename": "Garen.png",
+      "display_name": "Garen",
+      "classes": ["Vệ Quân"],
+      "origins": ["Demacia"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Graves": {
+      "filename": "Graves.png",
+      "display_name": "Graves",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Bilgewater"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Gwen": {
+      "filename": "Gwen.png",
+      "display_name": "Gwen",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Bóng Đêm"],
+      "cost": 3,
+      "has_data": true
+    },
+    "RiftHerald": {
+      "filename": "Herald.png",
+      "display_name": "Rift Herald",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Hư Không"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Illaoi": {
+      "filename": "Illaoi.png",
+      "display_name": "Illaoi",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Bilgewater"],
+      "cost": 1,
+      "has_data": true
+    },
+    "JarvanIV": {
+      "filename": "Jarvan.png",
+      "display_name": "Jarvan IV",
+      "classes": ["Vệ Quân"],
+      "origins": ["Demacia"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Jhin": {
+      "filename": "Jhin.png",
+      "display_name": "Jhin",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Ionia"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Jinx": {
+      "filename": "Jinx.png",
+      "display_name": "Jinx",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Zaun"],
+      "cost": 3,
+      "has_data": true
+    },
+    "KaiSa": {
+      "filename": "Kaisa.png",
+      "display_name": "Kai'Sa",
+      "classes": ["Viễn Kích"],
+      "origins": ["Hư Không"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Kalista": {
+      "filename": "Kalista.png",
+      "display_name": "Kalista",
+      "classes": ["Chinh Phạt"],
+      "origins": ["Bóng Đêm"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Kennen": {
+      "filename": "Kennen.png",
+      "display_name": "Kennen",
+      "classes": ["Vệ Quân"],
+      "origins": ["Ionia", "Yordle"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Kindred": {
+      "filename": "Kindred.png",
+      "display_name": "Kindred",
+      "classes": ["Cực Tốc"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Kobuko": {
+      "filename": "Kobuko.png",
+      "display_name": "Kobuko",
+      "classes": ["Đấu Sĩ", "Thuật Sĩ"],
+      "origins": ["Yordle"],
+      "cost": 3,
+      "has_data": true
+    },
+    "KogMaw": {
+      "filename": "Kogmaw.png",
+      "display_name": "Kog'Maw",
+      "classes": ["Pháp Sư", "Viễn Kích"],
+      "origins": ["Hư Không"],
+      "cost": 1,
+      "has_data": true
+    },
+    "LeBlanc": {
+      "filename": "Leblanc.png",
+      "display_name": "LeBlanc",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Noxus"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Leona": {
+      "filename": "Leona.png",
+      "display_name": "Leona",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Lissandra": {
+      "filename": "Lissandra.png",
+      "display_name": "Lissandra",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Freljord"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Loris": {
+      "filename": "Loris.png",
+      "display_name": "Loris",
+      "classes": ["Cảnh Vệ"],
+      "origins": ["Piltover"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Lucian": {
+      "filename": "Lucian.png",
+      "display_name": "Lucian",
+      "classes": ["Xạ Thủ"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Lulu": {
+      "filename": "Lulu.png",
+      "display_name": "Lulu",
+      "classes": ["Pháp Sư"],
+      "origins": ["Yordle"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Lux": {
+      "filename": "Lux.png",
+      "display_name": "Lux",
+      "classes": ["Pháp Sư"],
+      "origins": ["Demacia"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Malzahar": {
+      "filename": "Malzahar.png",
+      "display_name": "Malzahar",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Hư Không"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Mel": {
+      "filename": "Mel.png",
+      "display_name": "Mel",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Noxus"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Milio": {
+      "filename": "Milio.png",
+      "display_name": "Milio",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Ixtal"],
+      "cost": 3,
+      "has_data": true
+    },
+    "MissFortune": {
+      "filename": "Missfortune.png",
+      "display_name": "Miss Fortune",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Bilgewater"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Mundo": {
+      "filename": "Mundo.png",
+      "display_name": "Dr. Mundo",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Zaun"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Nasus": {
+      "filename": "Nasus.png",
+      "display_name": "Nasus",
+      "classes": [],
+      "origins": ["Shurima"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Nautilus": {
+      "filename": "Nautilus.png",
+      "display_name": "Nautilus",
+      "classes": ["Dũng Sĩ", "Cảnh Vệ"],
+      "origins": ["Bilgewater"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Neeko": {
+      "filename": "Neeko.png",
+      "display_name": "Neeko",
+      "classes": ["Pháp Sư", "Vệ Quân"],
+      "origins": ["Ixtal"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Nidalee": {
+      "filename": "Nidalee.png",
+      "display_name": "Nidalee",
+      "classes": [],
+      "origins": ["Ixtal"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Orianna": {
+      "filename": "Orianna.png",
+      "display_name": "Orianna",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Piltover"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Ornn": {
+      "filename": "Ornn.png",
+      "display_name": "Ornn",
+      "classes": ["Cảnh Vệ"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Poppy": {
+      "filename": "Poppy.png",
+      "display_name": "Poppy",
+      "classes": ["Dũng Sĩ"],
+      "origins": ["Demacia", "Yordle"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Qiyana": {
+      "filename": "Qiyana.png",
+      "display_name": "Qiyana",
+      "classes": ["Đồ Tể"],
+      "origins": ["Ixtal"],
+      "cost": 1,
+      "has_data": true
+    },
+    "RekSai": {
+      "filename": "Reksai.png",
+      "display_name": "Rek'Sai",
+      "classes": ["Chinh Phạt"],
+      "origins": ["Hư Không"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Renekton": {
+      "filename": "Renekton.png",
+      "display_name": "Renekton",
+      "classes": [],
+      "origins": ["Shurima"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Rumble": {
+      "filename": "Rumble.png",
+      "display_name": "Rumble",
+      "classes": ["Vệ Quân"],
+      "origins": ["Yordle"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Ryze": {
+      "filename": "Ryze.png",
+      "display_name": "Ryze",
+      "classes": [],
+      "origins": [],
+      "cost": 7,
+      "has_data": false
+    },
+    "Sejuani": {
+      "filename": "Sejuani.png",
+      "display_name": "Sejuani",
+      "classes": ["Vệ Quân"],
+      "origins": ["Freljord"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Seraphine": {
+      "filename": "Seraphine.png",
+      "display_name": "Seraphine",
+      "classes": ["Nhiễu Loạn"],
+      "origins": ["Piltover"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Sett": {
+      "filename": "Sett.png",
+      "display_name": "Sett",
+      "classes": [],
+      "origins": ["Ionia"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Shen": {
+      "filename": "Shen.png",
+      "display_name": "Shen",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Ionia"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Shyvana": {
+      "filename": "Shyvana.png",
+      "display_name": "Shyvana",
+      "classes": ["Dũng Sĩ"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Singed": {
+      "filename": "Singed.png",
+      "display_name": "Singed",
+      "classes": ["Dũng Sĩ"],
+      "origins": ["Zaun"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Sion": {
+      "filename": "Sion.png",
+      "display_name": "Sion",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Noxus"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Skarner": {
+      "filename": "Skarner.png",
+      "display_name": "Skarner",
+      "classes": [],
+      "origins": ["Ixtal"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Sona": {
+      "filename": "Sona.png",
+      "display_name": "Sona",
+      "classes": ["Thuật Sĩ"],
+      "origins": ["Demacia"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Swain": {
+      "filename": "Swain.png",
+      "display_name": "Swain",
+      "classes": ["Pháp Sư", "Dũng Sĩ"],
+      "origins": ["Noxus"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Sylas": {
+      "filename": "Sylas.png",
+      "display_name": "Sylas",
+      "classes": ["Pháp Sư", "Vệ Quân"],
+      "origins": [],
+      "cost": 7,
+      "has_data": true
+    },
+    "TahmKench": {
+      "filename": "Tahmkench.png",
+      "display_name": "Tahm Kench",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Bilgewater"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Taric": {
+      "filename": "Taric.png",
+      "display_name": "Taric",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Teemo": {
+      "filename": "Teemo.png",
+      "display_name": "Teemo",
+      "classes": ["Viễn Kích"],
+      "origins": ["Yordle"],
+      "cost": 2,
+      "has_data": true
+    },
+    "THex": {
+      "filename": "THex.png",
+      "display_name": "T-Hex",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Piltover"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Thresh": {
+      "filename": "Thresh.png",
+      "display_name": "Thresh",
+      "classes": ["Cảnh Vệ"],
+      "origins": ["Bóng Đêm"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Tristana": {
+      "filename": "Tristana.png",
+      "display_name": "Tristana",
+      "classes": ["Xạ Thủ"],
+      "origins": ["Yordle"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Tryndamere": {
+      "filename": "Tryndamere.png",
+      "display_name": "Tryndamere",
+      "classes": ["Đồ Tể"],
+      "origins": ["Freljord"],
+      "cost": 2,
+      "has_data": true
+    },
+    "TwistedFate": {
+      "filename": "TwistedFate.png",
+      "display_name": "Twisted Fate",
+      "classes": ["Cực Tốc"],
+      "origins": ["Bilgewater"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Vayne": {
+      "filename": "Vayne.png",
+      "display_name": "Vayne",
+      "classes": ["Viễn Kích"],
+      "origins": ["Demacia"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Veigar": {
+      "filename": "Veigar.png",
+      "display_name": "Veigar",
+      "classes": ["Pháp Sư"],
+      "origins": ["Yordle"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Vi": {
+      "filename": "Vi.png",
+      "display_name": "Vi",
+      "classes": ["Vệ Quân"],
+      "origins": ["Piltover", "Zaun"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Viego": {
+      "filename": "Viego.png",
+      "display_name": "Viego",
+      "classes": ["Cực Tốc"],
+      "origins": ["Bóng Đêm"],
+      "cost": 1,
+      "has_data": true
+    },
+    "Volibear": {
+      "filename": "Volibear.png",
+      "display_name": "Volibear",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Freljord"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Warwick": {
+      "filename": "Warwick.png",
+      "display_name": "Warwick",
+      "classes": ["Cực Tốc"],
+      "origins": ["Zaun"],
+      "cost": 4,
+      "has_data": true
+    },
+    "WuKong": {
+      "filename": "WuKong.png",
+      "display_name": "Wukong",
+      "classes": ["Đấu Sĩ"],
+      "origins": ["Ionia"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Xerath": {
+      "filename": "Xerath.png",
+      "display_name": "Xerath",
+      "classes": [],
+      "origins": ["Shurima"],
+      "cost": 5,
+      "has_data": true
+    },
+    "XinZhao": {
+      "filename": "Xinzhao.png",
+      "display_name": "Xin Zhao",
+      "classes": ["Cảnh Vệ"],
+      "origins": ["Ionia", "Demacia"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Yasuo": {
+      "filename": "Yasuo.png",
+      "display_name": "Yasuo",
+      "classes": ["Đồ Tể"],
+      "origins": ["Ionia"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Yone": {
+      "filename": "Yone.png",
+      "display_name": "Yone",
+      "classes": ["Đồ Tể"],
+      "origins": ["Ionia"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Yorick": {
+      "filename": "Yorick.png",
+      "display_name": "Yorick",
+      "classes": ["Cảnh Vệ"],
+      "origins": ["Bóng Đêm"],
+      "cost": 2,
+      "has_data": true
+    },
+    "Yunara": {
+      "filename": "Yunara.png",
+      "display_name": "Yunara",
+      "classes": ["Cực Tốc"],
+      "origins": ["Ionia"],
+      "cost": 4,
+      "has_data": true
+    },
+    "Ziggs": {
+      "filename": "Ziggs.png",
+      "display_name": "Ziggs",
+      "classes": ["Viễn Kích"],
+      "origins": ["Yordle", "Zaun"],
+      "cost": 5,
+      "has_data": true
+    },
+    "Zilean": {
+      "filename": "Zilean.png",
+      "display_name": "Zilean",
+      "classes": ["Thuật Sĩ"],
+      "origins": [],
+      "cost": 5,
+      "has_data": true
+    },
+    "Zoe": {
+      "filename": "Zoe.png",
+      "display_name": "Zoe",
+      "classes": [],
+      "origins": ["Targon"],
+      "cost": 3,
+      "has_data": true
+    },
+    "Zaahen": {
+      "filename": "Zaahen.png",
+      "display_name": "Zaahen",
+      "classes": [],
+      "origins": [],
+      "cost": 7,
+      "has_data": true
+    }
+  },
+  "filename_mapping": {
+    "Tahmkench.png": "TahmKench",
+    "Kogmaw.png": "KogMaw",
+    "Xinzhao.png": "XinZhao",
+    "Leblanc.png": "LeBlanc",
+    "Belveth.png": "BelVeth",
+    "Missfortune.png": "MissFortune",
+    "Reksai.png": "RekSai",
+    "Chogath.png": "ChoGath",
+    "THex.png": "THex",
+    "Kaisa.png": "KaiSa",
+    "AurelionSol.png": "AurelionSol",
+    "TwistedFate.png": "TwistedFate",
+    "Herald.png": "RiftHerald",
+    "Jarvan.png": "JarvanIV",
+    "Mundo.png": "Mundo"
+  }
+}
+
