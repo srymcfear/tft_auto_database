@@ -1,0 +1,506 @@
+{
+  "Aatrox": {
+    "filename": "Aatrox.png",
+    "display_name": "Aatrox",
+    "classes": ["Can Trường"],
+    "origins": ["N.O.V.A"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Akali": {
+    "filename": "Akali.png",
+    "display_name": "Akali",
+    "classes": ["Toán Cướp"],
+    "origins": ["N.O.V.A"],
+    "cost": 2,
+    "has_data": true
+  },
+  "AurelionSol": {
+    "filename": "AurelionSol.png",
+    "display_name": "Aurelion Sol",
+    "classes": ["Tụ Năng"],
+    "origins": ["Máy Móc"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Aurora": {
+    "filename": "Aurora.png",
+    "display_name": "Aurora",
+    "classes": ["Viễn Chinh"],
+    "origins": ["Siêu Thú"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Bard": {
+    "filename": "Bard.png",
+    "display_name": "Bard",
+    "classes": ["Tụ Năng"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Belveth": {
+    "filename": "Belveth.png",
+    "display_name": "Bel'Veth",
+    "classes": ["Thách Đấu", "Toán Cướp"],
+    "origins": ["Tộc Thượng Cổ"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Blitzcrank": {
+    "filename": "Blitzcrank.png",
+    "display_name": "Blitzcrank",
+    "classes": ["Tiên Phong"],
+    "origins": ["Tiệc Tùng", "Hành Tinh"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Briar": {
+    "filename": "Briar.png",
+    "display_name": "Briar",
+    "classes": ["Vô Pháp"],
+    "origins": ["Siêu Thú", "Tộc Thượng Cổ"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Caitlyn": {
+    "filename": "Caitlyn.png",
+    "display_name": "Caitlyn",
+    "classes": ["Bắn Tỉa"],
+    "origins": ["N.O.V.A"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Chogath": {
+    "filename": "Chogath.png",
+    "display_name": "Cho'Gath",
+    "classes": ["Đấu Sĩ"],
+    "origins": ["Hắc Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Corki": {
+    "filename": "Corki.png",
+    "display_name": "Corki",
+    "classes": ["Định Mệnh"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Diana": {
+    "filename": "Diana.png",
+    "display_name": "Diana",
+    "classes": ["Thách Đấu"],
+    "origins": ["Thần Phán"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Ezreal": {
+    "filename": "Ezreal.png",
+    "display_name": "Ezreal",
+    "classes": ["Bắn Tỉa"],
+    "origins": ["Thời Không"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Fiora": {
+    "filename": "Fiora.png",
+    "display_name": "Fiora",
+    "classes": ["Toán Cướp"],
+    "origins": ["Song Đấu", "Siêu Thú"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Fizz": {
+    "filename": "Fizz.png",
+    "display_name": "Fizz",
+    "classes": ["Vô Pháp"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Gnar": {
+    "filename": "Gnar.png",
+    "display_name": "Gnar",
+    "classes": ["Bắn Tỉa"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Gragas": {
+    "filename": "Gragas.png",
+    "display_name": "Gragas",
+    "classes": ["Đấu Sĩ"],
+    "origins": ["Siêu Linh"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Graves": {
+    "filename": "Graves.png",
+    "display_name": "Graves",
+    "classes": [],
+    "origins": ["Tối Tân"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Gwen": {
+    "filename": "Gwen.png",
+    "display_name": "Gwen",
+    "classes": ["Vô Pháp"],
+    "origins": ["Hành Tinh"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Illaoi": {
+    "filename": "Illaoi.png",
+    "display_name": "Illaoi",
+    "classes": ["Tiên Phong", "Du Mục"],
+    "origins": ["Siêu Thú"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Jax": {
+    "filename": "Jax.png",
+    "display_name": "Jax",
+    "classes": ["Can Trường"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Jhin": {
+    "filename": "Jhin.png",
+    "display_name": "Jhin",
+    "classes": ["Bắn Tỉa", "Hủy Diệt"],
+    "origins": ["Hắc Tinh"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Jinx": {
+    "filename": "Jinx.png",
+    "display_name": "Jinx",
+    "classes": ["Thách Đấu"],
+    "origins": ["Siêu Thú"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Kaisa": {
+    "filename": "Kaisa.png",
+    "display_name": "Kai'Sa",
+    "classes": ["Vô Pháp"],
+    "origins": ["Hắc Tinh"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Karma": {
+    "filename": "Karma.png",
+    "display_name": "Karma",
+    "classes": ["Viễn Chinh"],
+    "origins": ["Hắc Tinh"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Kindred": {
+    "filename": "Kindred.png",
+    "display_name": "Kindred",
+    "classes": ["Thách Đấu"],
+    "origins": ["N.O.V.A"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Leblanc": {
+    "filename": "Leblanc.png",
+    "display_name": "LeBlanc",
+    "classes": ["Du Mục"],
+    "origins": ["Thần Phán"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Leona": {
+    "filename": "Leona.png",
+    "display_name": "Leona",
+    "classes": ["Tiên Phong"],
+    "origins": ["Thần Phán"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Lissandra": {
+    "filename": "Lissandra.png",
+    "display_name": "Lissandra",
+    "classes": ["Du Mục", "Nhân Bản"],
+    "origins": ["Hắc Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Lulu": {
+    "filename": "Lulu.png",
+    "display_name": "Lulu",
+    "classes": ["Nhân Bản"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Maokai": {
+    "filename": "Maokai.png",
+    "display_name": "Maokai",
+    "classes": ["Đấu Sĩ"],
+    "origins": ["N.O.V.A"],
+    "cost": 3,
+    "has_data": true
+  },
+  "MasterYi": {
+    "filename": "Master_Yi.png",
+    "display_name": "Master Yi",
+    "classes": ["Toán Cướp"],
+    "origins": ["Siêu Linh"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Meepsie": {
+    "filename": "Meepsie.png",
+    "display_name": "Meepsie",
+    "classes": ["Du Mục", "Viễn Chinh"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Milio": {
+    "filename": "Milio.png",
+    "display_name": "Milio",
+    "classes": ["Định Mệnh"],
+    "origins": ["Thời Không"],
+    "cost": 2,
+    "has_data": true
+  },
+  "MissFortune": {
+    "filename": "MissFortune.png",
+    "display_name": "Miss Fortune",
+    "classes": [],
+    "origins": ["Xạ Thần"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Mordekaiser": {
+    "filename": "Mordekaiser.png",
+    "display_name": "Mordekaiser",
+    "classes": ["Tụ Năng", "Tiên Phong"],
+    "origins": ["Hắc Tinh"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Morgana": {
+    "filename": "Morgana.png",
+    "display_name": "Morgana",
+    "classes": [],
+    "origins": ["Ác Nữ"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Nami": {
+    "filename": "Nami.png",
+    "display_name": "Nami",
+    "classes": ["Nhân Bản"],
+    "origins": ["Hành Tinh"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Nasus": {
+    "filename": "Nasus.png",
+    "display_name": "Nasus",
+    "classes": ["Tiên Phong"],
+    "origins": ["Hành Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Nunu": {
+    "filename": "Nunu.png",
+    "display_name": "Nunu & Willump",
+    "classes": ["Tiên Phong"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Ornn": {
+    "filename": "Ornn.png",
+    "display_name": "Ornn",
+    "classes": ["Can Trường"],
+    "origins": ["Hành Tinh"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Pantheon": {
+    "filename": "Pantheon.png",
+    "display_name": "Pantheon",
+    "classes": ["Đấu Sĩ", "Nhân Bản"],
+    "origins": ["Thời Không"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Poppy": {
+    "filename": "Poppy.png",
+    "display_name": "Poppy",
+    "classes": ["Can Trường"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Pyke": {
+    "filename": "Pyke.png",
+    "display_name": "Pyke",
+    "classes": ["Viễn Chinh"],
+    "origins": ["Siêu Linh"],
+    "cost": 2,
+    "has_data": true
+  },
+  "Rammus": {
+    "filename": "Rammus.png",
+    "display_name": "Rammus",
+    "classes": ["Can Trường"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 4,
+    "has_data": true
+  },
+  "RekSai": {
+    "filename": "RekSai.png",
+    "display_name": "Rek'Sai",
+    "classes": ["Đấu Sĩ"],
+    "origins": ["Tộc Thượng Cổ"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Rhaast": {
+    "filename": "Rhaast.png",
+    "display_name": "Rhaast",
+    "classes": [],
+    "origins": ["Chuộc Tội"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Riven": {
+    "filename": "Riven.png",
+    "display_name": "Riven",
+    "classes": ["Vô Pháp"],
+    "origins": ["Thời Không"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Robot": {
+    "filename": "Robot.png",
+    "display_name": "Robot",
+    "classes": ["Viễn Chinh"],
+    "origins": ["Máy Móc"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Samira": {
+    "filename": "Samira.png",
+    "display_name": "Samira",
+    "classes": ["Bắn Tỉa"],
+    "origins": ["Hành Tinh"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Shen": {
+    "filename": "Shen.png",
+    "display_name": "Shen",
+    "classes": ["Can Trường"],
+    "origins": ["Chiến Lũy"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Sona": {
+    "filename": "Sona.png",
+    "display_name": "Sona",
+    "classes": ["Du Mục"],
+    "origins": ["Siêu Linh", "Chỉ Huy"],
+    "cost": 5,
+    "has_data": true
+  },
+  "TahmKench": {
+    "filename": "TahmKench.png",
+    "display_name": "Tahm Kench",
+    "classes": ["Đấu Sĩ"],
+    "origins": ["Tiên Tri"],
+    "cost": 4,
+    "has_data": true
+  },
+  "Talon": {
+    "filename": "Talon.png",
+    "display_name": "Talon",
+    "classes": ["Vô Pháp"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Teemo": {
+    "filename": "Teemo.png",
+    "display_name": "Teemo",
+    "classes": ["Du Mục"],
+    "origins": ["Hành Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "TwistedFate": {
+    "filename": "TwistedFate.png",
+    "display_name": "Twisted Fate",
+    "classes": ["Định Mệnh"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Urgot": {
+    "filename": "Urgot.png",
+    "display_name": "Urgot",
+    "classes": ["Đấu Sĩ", "Toán Cướp"],
+    "origins": ["Máy Móc"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Veigar": {
+    "filename": "Veigar.png",
+    "display_name": "Veigar",
+    "classes": ["Nhân Bản"],
+    "origins": ["Tinh Linh Chuông"],
+    "cost": 1,
+    "has_data": true
+  },
+  "Vex": {
+    "filename": "Vex.png",
+    "display_name": "Vex",
+    "classes": [],
+    "origins": ["U Sầu"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Viktor": {
+    "filename": "Viktor.png",
+    "display_name": "Viktor",
+    "classes": ["Tụ Năng"],
+    "origins": ["Siêu Linh"],
+    "cost": 3,
+    "has_data": true
+  },
+  "Xayah": {
+    "filename": "Xayah.png",
+    "display_name": "Xayah",
+    "classes": ["Bắn Tỉa"],
+    "origins": ["Chiêm Tinh"],
+    "cost": 4,
+    "has_data": true
+  },
+    "Zed": {
+    "filename": "Zed.png",
+    "display_name": "Zed",
+    "classes": [],
+    "origins": ["Galaxy Hunter"],
+    "cost": 5,
+    "has_data": true
+  },
+  "Zoe": {
+    "filename": "Zoe.png",
+    "display_name": "Zoe",
+    "classes": ["Siêu Linh"],
+    "origins": ["Thần Phán"],
+    "cost": 2,
+    "has_data": true
+  }
+}
